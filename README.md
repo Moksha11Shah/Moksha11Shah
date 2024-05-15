@@ -1,8 +1,8 @@
--  If you have reached this Account then Smile😄....I am going to help you out throughout your Coding journey...,,,
-  👋 Heyyy , Everyone this is Moksha Shah...,,,Welcome to my Github Account..!!!!
-   I’m currently learning...and developing myself to be a better version of me... I feel Satisfied to upload my projects to this 
-   platform and help everyone with my coding knowledge..
-   Let's learn together and enhance our Skills..!!!
+-  If you have reached this Page then Smile😄....I am going to help you out throughout your Coding journey...,,,
+   Heyyy👋 , Everyone This is Moksha....,,,Welcome to my Github Account..!!!!
+   I’m currently learning... I feel Satisfied to upload my projects to this 
+   platform and help you with my coding knowledge..
+ 
 
 
 <!---
